@@ -1,13 +1,13 @@
 # Final Project
 ## Ruthapoom Sibanyen ID:63606009
 
-## Instructions **
+## Instructions
 
 	- นำข้อมูลจาก website หรือ api ผ่าน bs4 บน airflow
 	- เลขล็อตเตอรี่รางวัลที่ 1 กับเลขท้าย 2, 3 ตัว ของแต่ละเดือน (เริ่มจาก มค. 64) หรือ
 	- ข้อมูลคู่เหรียญในเว็บ binance หรือข้อมูลที่ นศ. สนใจ 
 
-## ส่งเป็น MS Word, PDF **
+## ส่งเป็น MS Word, PDF
 
 	# python file ของ airflow 
 	# รายงาน
