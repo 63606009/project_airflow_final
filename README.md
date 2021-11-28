@@ -15,3 +15,11 @@
 	        - รายละเอียดของข้อมูล (ชื่อข้อมูล ชื่อฟิล คอลัม ประเภทข้อมูล คำอธิบาย)
 	        - ประโยชน์ที่ได้รับจากการรวบรวมข้อมูล (2-3 บรรทัด)
 
+## เครื่องมือที่ใช้
+
+	- Elastic Cloud Server (Huawei cloud)
+	- Docker
+	- Apache Airflow
+	- MySQL
+
+## Installation Guide
