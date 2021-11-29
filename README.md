@@ -26,5 +26,19 @@
 
 	sudo kill `sudo lsof -t -i:3306`
 
+	docker ps
+	docker exec -it airflow-airflow-worker-1 bash 
+	pip install mysql-connector
+	exit
+	docker exec -it airflow-airflow-webserver-1 bash 
+	pip install mysql-connector
+	exit
+	docker exec -it airflow-airflow-scheduler-1 bash 
+	pip install mysql-connector
+	exit
+	docker-compose restart
+
+
+
 ## Installation Guide
 
