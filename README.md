@@ -22,7 +22,7 @@
 	- Apache Airflow
 	- MySQL
 
-## คำสั่งเปิด mysql ถ้า docker หายไป
+## คำสั่งเปิด mysql ถ้า docker
 
 	sudo kill `sudo lsof -t -i:3306`
 
@@ -38,7 +38,4 @@
 	exit
 	docker-compose restart
 
-
-
-## Installation Guide
 
